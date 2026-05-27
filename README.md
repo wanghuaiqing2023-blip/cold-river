@@ -1,3 +1,1 @@
-# cold-river
-# cold-river
-# cold-river
+the repo is used for recording notes
